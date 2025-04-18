@@ -49,10 +49,6 @@
 	<dict>
 		<key>Headers/AdMoreBanner.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nc95wRLE/EQflNPEX+FfAZcRSr8=
-			</data>
 			<key>hash2</key>
 			<data>
 			NfUGvuI6nUaQOxcwjBdKSx4Xi/D30Qt19tCkTKotg0A=
@@ -60,10 +56,6 @@
 		</dict>
 		<key>Headers/AdMoreFeed.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GVJ9VQDE0vvTFzqPe1MTu9+XO50=
-			</data>
 			<key>hash2</key>
 			<data>
 			OQG3VjD2uSIMghSzvXZZjgAVglPDHmNME+pINGfSgNw=
@@ -71,10 +63,6 @@
 		</dict>
 		<key>Headers/AdMoreFeedView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8c3Sg+noUvLkRHISskyzA8tX5V8=
-			</data>
 			<key>hash2</key>
 			<data>
 			CTjvagThZP/2D3Zsup3+snRsymhQEg0r/QPEIhF22kc=
@@ -82,10 +70,6 @@
 		</dict>
 		<key>Headers/AdMoreInterstitial.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kP78DRPA9O6+sDpQ85BEaM9NVWY=
-			</data>
 			<key>hash2</key>
 			<data>
 			nFPDr4qj7jZUlz+yfiKJlCFs4QwVYFK8uxL2KmNihKs=
@@ -93,10 +77,6 @@
 		</dict>
 		<key>Headers/AdMoreRewardVideo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HG4lz3obrsM6oIo+wTzvayUNJFA=
-			</data>
 			<key>hash2</key>
 			<data>
 			J7yuazHsAyXFE4WNS7z7T7ugGDmWn/IRyu37dH65qM0=
@@ -104,10 +84,6 @@
 		</dict>
 		<key>Headers/AdMoreSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+pH0Q0pX+eQwdW8ixLV8Uncm8pM=
-			</data>
 			<key>hash2</key>
 			<data>
 			jECD0XM1dKtrEItZ/erLoxT9JrpsWMZ9ZslYSsGhKuI=
@@ -115,10 +91,6 @@
 		</dict>
 		<key>Headers/AdMoreSDKManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QfBX+7cSp3pcsYN/fNRnClsvYIU=
-			</data>
 			<key>hash2</key>
 			<data>
 			6FnmQGLRzstPTlADK11XSTX26w6qKPBtxDhS2es48u4=
@@ -126,10 +98,6 @@
 		</dict>
 		<key>Headers/AdMoreSplash.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QgOdJEpV5iw+ANyD0jqr7RQrj5Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			a5KwLAfHq74AnWfOvN7PbFkzHt9L/KUMQ8m7+lwPssQ=
@@ -137,10 +105,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WnqLpVLrPqU3T9vkkbYdhnT/8M0=
-			</data>
 			<key>hash2</key>
 			<data>
 			SqrGW6ok346tJbGtDV+NJ/SRMPBxPjY/qr6NoWE7RNM=
